@@ -1,1 +1,3 @@
 # Weebbook
+
+https://discord.com/api/webhooks/1091084205963878501/N_UzPF7qCiih0zw6Z5wpwzNI7Ch61nhoWUdL8wPtLKk77ql8kQWqd7TUSqm6s4vpRz2Z
